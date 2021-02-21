@@ -6,7 +6,7 @@
 		"find-generator": "find-generator.js"
 	},
 	"dependencies": {
-		"yeoman-environment": "^2.4.0"
+		"yeoman-environment": "^3.0.0"
 	},
 	"private": true
 }
